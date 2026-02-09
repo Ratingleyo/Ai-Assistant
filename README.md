@@ -86,14 +86,6 @@ Edit `src/config.py` to customize:
 - Screenshot quality
 - Model selection
 
-## Dependencies
-
-- **openai**: OpenAI API client
-- **pyautogui**: Screen capture and automation
-- **pillow**: Image processing
-- **pyttsx3**: Text-to-speech
-- **python-dotenv**: Environment variable management
-
 ## Troubleshooting
 
 ### "OPENAI_API_KEY not found"
@@ -120,3 +112,4 @@ Edit `src/config.py` to customize:
 ## License
 
 MIT License - Feel free to use and modify as needed.
+
