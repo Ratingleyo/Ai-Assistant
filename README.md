@@ -100,16 +100,8 @@ Edit `src/config.py` to customize:
 - On Mac, you may need to grant screen recording permissions
 - Check System Preferences > Security & Privacy > Screen Recording
 
-## Future Enhancements
-
-- Auto-crop screen areas for better focus
-- Save conversation history
-- Multiple AI model support
-- Custom hotkeys for quick capture
-- Screenshot annotation tools
-- Better error handling and logging
-
 ## License
 
 MIT License - Feel free to use and modify as needed.
+
 
